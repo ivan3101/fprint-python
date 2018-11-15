@@ -1,6 +1,6 @@
-#Sistema de autenticacion con Fprint y escaner QR con camaras IP
+# Sistema de autenticacion con Fprint y escaner QR con camaras IP
 
-##Tecnologias usadas
+## Tecnologias usadas
 - MongoDB
 - Node
 - Python 3.7
@@ -8,13 +8,13 @@
 - OpenCV
 - ZBar
 
-##Requisitos
+## Requisitos
 - Instalar e iniciar `MongoDB`
 - Instalar las librerias `zbar` y `libfprint`
 - Instalar `NodeJS` y `NPM` 
 - Instalar `python 3` y `pip`
 
-##Instalacion
+## Instalacion
 1. Ejecutar el comando `pip install --user requests python-opencv pyzbar`
 2. En la carpeta `pyfprint-cffi-master` ejecutar el comando `pip install --user .`
 3. En la carpeta `api` ejecutar el comando `npm install`
