@@ -15,7 +15,7 @@
 - Instalar `python 3` y `pip`
 
 ## Instalacion
-1. Ejecutar el comando `pip install --user requests python-opencv pyzbar`
+1. Ejecutar el comando `pip install --user requests opencv-python pyzbar`
 2. En la carpeta `pyfprint-cffi-master` ejecutar el comando `pip install --user .`
 3. En la carpeta `api` ejecutar el comando `npm install`
 4. En la carpeta `api` ejecutar el comando `npm start` para iniciar la API
